@@ -386,7 +386,7 @@ PRODUCT_PACKAGES += \
     #libantradio \
     vendor.qti.hardware.fm@1.0 \
     libloc_api_v02 \
-    #libsdm-disp-vndapis \
+    libsdm-disp-vndapis \
     libthermalclient \
     libtime_genoff \
     QtiTelephonyService \
