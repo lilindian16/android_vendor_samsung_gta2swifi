@@ -383,10 +383,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta2swifi/proprietary/vendor/radio/qcril_database/qcril.db:system/vendor/radio/qcril_database/qcril.db
 
 PRODUCT_PACKAGES += \
-    libantradio \
+    #libantradio \
     vendor.qti.hardware.fm@1.0 \
     libloc_api_v02 \
-    libsdm-disp-vndapis \
+    #libsdm-disp-vndapis \
     libthermalclient \
     libtime_genoff \
     QtiTelephonyService \
