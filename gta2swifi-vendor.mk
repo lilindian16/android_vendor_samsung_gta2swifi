@@ -320,7 +320,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libscalar.so:system/vendor/lib/libscalar.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libsdm-color.so:system/vendor/lib/libsdm-color.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libsdm-diag.so:system/vendor/lib/libsdm-diag.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libsdm-disp-vndapis.so:system/vendor/lib/libsdm-disp-vndapis.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib64/libsdm-disp-vndapis.so:system/vendor/lib64/libsdm-disp-vndapis.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libsdmextension.so:system/vendor/lib/libsdmextension.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libsecureui.so:system/vendor/lib/libsecureui.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libsecureui_svcsock.so:system/vendor/lib/libsecureui_svcsock.so \
