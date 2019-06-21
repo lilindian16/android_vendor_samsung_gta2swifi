@@ -85,18 +85,18 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k3l8_f3l8yam_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3l8_f3l8yam_chromatix.xml \
     vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k3l8_mono_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3l8_mono_chromatix.xml \
     vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k3l8_ofilm_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3l8_ofilm_chromatix.xml \
-    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k3l8_ofilm_riva_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3l8_ofilm_riva_chromatix.xml \
-    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k3l8_ofilm_riva_india_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3l8_ofilm_riva_india_chromatix.xml \
+    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k3l8_ofilm_gta2swifi_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3l8_ofilm_gta2swifi_chromatix.xml \
+    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k3l8_ofilm_gta2swifi_india_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3l8_ofilm_gta2swifi_india_chromatix.xml \
     vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k3m2xm_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3m2xm_chromatix.xml \
     vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k3m2xm_chromatix_bear.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3m2xm_chromatix_bear.xml \
     vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k3m2xx_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3m2xx_chromatix.xml \
     vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k3p3sm_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p3sm_chromatix.xml \
     vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k5e8_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_chromatix.xml \
     vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k5e8_ofilm_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_ofilm_chromatix.xml \
-    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k5e8_ofilm_riva_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_ofilm_riva_chromatix.xml \
-    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k5e8_ofilm_riva_india_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_ofilm_riva_india_chromatix.xml \
-    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k5e8_qtech_riva_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_qtech_riva_chromatix.xml \
-    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k5e8_qtech_riva_india_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_qtech_riva_india_chromatix.xml \
+    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k5e8_ofilm_gta2swifi_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_ofilm_gta2swifi_chromatix.xml \
+    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k5e8_ofilm_gta2swifi_india_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_ofilm_gta2swifi_india_chromatix.xml \
+    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k5e8_qtech_gta2swifi_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_qtech_gta2swifi_chromatix.xml \
+    vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k5e8_qtech_gta2swifi_india_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_qtech_gta2swifi_india_chromatix.xml \
     vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/s5k5e8_sunny_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k5e8_sunny_chromatix.xml \
     vendor/samsung/gta2swifi/proprietary/vendor/etc/camera/sony_imx486_ii_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sony_imx486_ii_chromatix.xml \
     vendor/samsung/gta2swifi/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
@@ -388,7 +388,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libactuator_bu64244gwz.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_bu64244gwz.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libactuator_bu64297.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_bu64297.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libactuator_dw9714.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9714.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libactuator_dw9714_s5k3l8_riva.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9714_s5k3l8_riva.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libactuator_dw9714_s5k3l8_gta2swifi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9714_s5k3l8_gta2swifi.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libactuator_dw9716.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9716.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libactuator_dw9761b.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9761b.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libactuator_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9763.so \
@@ -1593,6 +1593,50 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_default_preview_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_default_preview_dw9763.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_default_video.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_default_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_default_video_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_common.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_liveshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_cpp_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_default_preview_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_default_preview_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_default_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_default_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_default_video_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_120_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_120_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_60_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_60_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_90_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_hfr_90_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_common.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_liveshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_cpp_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_default_preview_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_default_preview_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_default_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_default_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_default_video_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_120_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_120_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_60_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_60_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_90_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_hfr_90_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_postproc.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_zsl_preview_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_zsl_preview_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_zsl_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_india_zsl_video_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_postproc.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_zsl_preview_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_zsl_preview_dw9763.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_gta2swifi_zsl_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_gta2swifi_zsl_video_dw9763.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_hfr_120.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_hfr_120_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_hfr_120_dw9763.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_hfr_60.so \
@@ -1601,50 +1645,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_hfr_90_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_hfr_90_dw9763.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_postproc.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_common.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_cpp_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_cpp_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_cpp_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_cpp_liveshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_cpp_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_cpp_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_cpp_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_default_preview_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_default_preview_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_default_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_default_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_default_video_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_hfr_120_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_hfr_120_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_hfr_60_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_hfr_60_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_hfr_90_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_hfr_90_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_common.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_liveshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_cpp_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_default_preview_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_default_preview_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_default_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_default_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_default_video_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_120_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_120_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_60_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_60_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_90_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_hfr_90_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_postproc.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_zsl_preview_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_zsl_preview_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_india_zsl_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_india_zsl_video_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_postproc.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_zsl_preview_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_zsl_preview_dw9763.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_riva_zsl_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_riva_zsl_video_dw9763.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_snapshot.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_zsl_preview_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_zsl_preview_dw9763.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k3l8_ofilm_zsl_video_dw9763.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3l8_ofilm_zsl_video_dw9763.so \
@@ -1788,117 +1788,117 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_cpp_us_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_cpp_us_chromatix.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_cpp_video.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_default_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_a3_default_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_a3_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_a3_default_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_a3_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_a3_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_a3_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_a3_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_a3_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_a3_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_common.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_ds_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_ds_chromatix.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_liveshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_us_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_us_chromatix.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_cpp_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_default_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_a3_default_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_a3_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_a3_default_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_a3_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_a3_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_a3_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_a3_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_a3_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_a3_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_common.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_ds_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_ds_chromatix.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_liveshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_us_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_us_chromatix.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_cpp_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_default_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_liveshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_postproc.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_zsl_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_india_zsl_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_liveshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_postproc.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_zsl_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_gta2swifi_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_gta2swifi_zsl_video.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_hfr_120.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_hfr_60.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_hfr_90.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_liveshot.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_postproc.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_a3_default_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_a3_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_a3_default_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_a3_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_a3_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_a3_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_a3_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_a3_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_a3_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_common.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_cpp_ds_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_cpp_ds_chromatix.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_cpp_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_cpp_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_cpp_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_cpp_liveshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_cpp_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_cpp_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_cpp_us_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_cpp_us_chromatix.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_cpp_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_default_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_a3_default_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_a3_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_a3_default_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_a3_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_a3_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_a3_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_a3_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_a3_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_a3_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_common.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_ds_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_ds_chromatix.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_liveshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_us_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_us_chromatix.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_cpp_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_default_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_liveshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_postproc.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_zsl_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_india_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_india_zsl_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_liveshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_postproc.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_zsl_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_riva_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_riva_zsl_video.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_snapshot.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_zsl_preview.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_zsl_video.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_postproc.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_a3_default_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_a3_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_a3_default_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_a3_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_a3_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_a3_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_a3_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_a3_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_a3_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_common.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_cpp_ds_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_cpp_ds_chromatix.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_cpp_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_cpp_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_cpp_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_cpp_liveshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_cpp_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_cpp_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_cpp_us_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_cpp_us_chromatix.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_cpp_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_default_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_a3_default_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_a3_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_a3_default_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_a3_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_a3_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_a3_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_a3_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_a3_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_a3_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_common.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_ds_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_ds_chromatix.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_liveshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_us_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_us_chromatix.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_cpp_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_default_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_hfr_120.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_hfr_60.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_hfr_90.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_liveshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_postproc.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_zsl_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_india_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_india_zsl_video.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_liveshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_postproc.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_snapshot.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_zsl_preview.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_riva_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_riva_zsl_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_a3_default_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_a3_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_a3_default_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_a3_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_a3_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_a3_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_a3_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_a3_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_a3_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_common.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_ds_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_ds_chromatix.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_liveshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_us_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_us_chromatix.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_cpp_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_default_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_a3_default_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_a3_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_a3_default_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_a3_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_a3_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_a3_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_a3_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_a3_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_a3_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_common.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_ds_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_ds_chromatix.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_liveshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_us_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_us_chromatix.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_cpp_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_default_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_hfr_120.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_hfr_60.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_hfr_90.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_liveshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_postproc.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_zsl_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_india_zsl_video.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_liveshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_postproc.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_snapshot.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_zsl_preview.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_qtech_gta2swifi_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_qtech_gta2swifi_zsl_video.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_snapshot.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_sunny_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_sunny_common.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libchromatix_s5k5e8_sunny_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_sunny_cpp_hfr_120.so \
@@ -2174,8 +2174,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k3l8_mono.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3l8_mono.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k3l8_ofilm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3l8_ofilm.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k3l8_ofilm_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3l8_ofilm_eeprom.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k3l8_ofilm_riva.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3l8_ofilm_riva.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k3l8_ofilm_riva_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3l8_ofilm_riva_eeprom.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k3l8_ofilm_gta2swifi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3l8_ofilm_gta2swifi.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k3l8_ofilm_gta2swifi_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3l8_ofilm_gta2swifi_eeprom.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k3m2xm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3m2xm.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k3m2xx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3m2xx.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k3p3sm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k3p3sm.so \
@@ -2184,10 +2184,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_eeprom.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_ofilm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_ofilm.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_ofilm_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_ofilm_eeprom.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_ofilm_riva.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_ofilm_riva.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_ofilm_riva_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_ofilm_riva_eeprom.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_qtech_riva.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_qtech_riva.so \
-    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_qtech_riva_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_qtech_riva_eeprom.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_ofilm_gta2swifi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_ofilm_gta2swifi.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_ofilm_gta2swifi_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_ofilm_gta2swifi_eeprom.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_qtech_gta2swifi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_qtech_gta2swifi.so \
+    vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_qtech_gta2swifi_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_qtech_gta2swifi_eeprom.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_sunny.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_sunny.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_s5k5e8_sunny_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k5e8_sunny_eeprom.so \
     vendor/samsung/gta2swifi/proprietary/vendor/lib/libmmcamera_sony_imx214_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_sony_imx214_eeprom.so \
@@ -2398,12 +2398,12 @@ PRODUCT_PACKAGES += \
     libts_detected_face_hal \
     libts_face_beautify_hal \
     QtiTelephonyService \
+    TimeService \
     ims \
     imssettings \
     CNEService \
     com.qualcomm.location \
     qcrilmsgtunnel \
-    TimeService \
     qdcm_calib_data_hx8394F_HD720p_video_BOE_c3a \
     qdcm_calib_data_ili9881c_HD720p_video_Ebbg_c3a \
     qdcm_calib_data_nt35521s_HD720p_video_EBBG_c3a
